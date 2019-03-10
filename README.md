@@ -1,4 +1,4 @@
-# sepa
+# SEPA Transfer with Excel
 Manage SEPA transfer
 
 This is not CODE but an excel file, paired with an xml to manage multiple simple SEPA transfer orders
